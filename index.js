@@ -70,3 +70,5 @@ function superbowlWin(collection){
     }
 }
 superbowlWin();
+
+record.find(superbowlWin);
